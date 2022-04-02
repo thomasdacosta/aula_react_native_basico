@@ -2,6 +2,8 @@
 
 Aplicação para explicar o desenvolvimento básico de React Native e conceitos aprendidos em sala de aula
 
+- Necessário instalar o **Android Studio** para configurar o ambiente com Android.
+
 - Configurando o ambiente:
   - https://reactnative.dev/docs/environment-setup
 
@@ -15,7 +17,7 @@ C:\Users\<usuario>\AppData\Local\Android\Sdk\tools\emulator -list-avds
 C:\Users\<usuario>\AppData\Local\Android\Sdk\tools\emulator -avd Pixel_2_API_26
 ```
 
-- Variaveis de Ambiente:
+- Variaveis de Ambiente (Windows):
 ```
 ANDROID_HOME=C:\Users\<usuario>\AppData\Local\Android\Sdk
 ANDROID_SDK_ROOT=C:\Users\<usuario>\AppData\Local\Android\Sdk
