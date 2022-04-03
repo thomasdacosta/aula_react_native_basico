@@ -23,6 +23,9 @@ ANDROID_HOME=C:\Users\<usuario>\AppData\Local\Android\Sdk
 ANDROID_SDK_ROOT=C:\Users\<usuario>\AppData\Local\Android\Sdk
 ```
 
+- Problemas na execução da aplicação:
+  - https://stackoverflow.com/questions/57104357/react-native-task-appvalidatesigningdebug-failed
+
 - Links importantes:
   - https://expo.dev/
 
