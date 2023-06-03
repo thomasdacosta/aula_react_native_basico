@@ -1,4 +1,4 @@
-# Senac - React Native Básico
+# React Native Básico
 
 Aplicação para explicar o desenvolvimento básico de React Native e conceitos aprendidos em sala de aula
 
